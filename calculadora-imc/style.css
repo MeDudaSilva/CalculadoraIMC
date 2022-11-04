@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(243, 180, 180);
+}
+
+.inicio {
+    align-items: center;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+button {
+    background-color: rgb(238, 245, 255);
+    box-shadow: 3px 3px 3px ;
+}
+
+.botao {
+    align-items: center;
+    text-align: center;
+
+}
+
+button:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    font-style: italic;
+}
+
+#peso{
+    box-shadow: 3px 3px 3px black;
+    height: 20px;
+    width: 170px;
+}
+
+#altura{
+    box-shadow: 3px 3px 3px black;
+    height: 20px;
+    width: 170px;
+}
+
+#nome{
+    box-shadow: 3px 3px 3px black;
+    height: 20px;
+    width: 170px;
+}
+
+.perigo {
+    color: red;
+}
+
+.alerta1 {
+    color: orange;
+}
+
+.alerta2 {
+    color: yellow;
+}
+
+.Saudável {
+    color: green;
+}
+
+.alerta3 {
+    color: rgb(46, 156, 247);
+}
+
+.alerta4 {
+    color: rgb(10, 53, 243);
+}
+
+.alerta5 {
+    color: rgb(49, 0, 165);
+}
+
+.alerta6 {
+    color: rgb(0, 0, 0);
+}
